@@ -1,0 +1,45 @@
+.trumpi{
+    margin-left: 30px;
+    font-size: 25px;
+    line-height: 1.6; /* ayuda al espacio entre lineas */
+    max-width: 2000px; /* ayuda a limitar el ancho a 1 que llega el texto */
+}
+
+.chinaa{
+    margin-left: 30px;
+    font-size: 25px;
+    line-height: 1.6; /* ayuda al espacio entre lineas */
+    max-width: 2000px; /* ayuda a limitar el ancho a 1 que llega el texto */
+}
+
+body{
+    padding: 50px;
+    border-right: black solid 2px;
+    border-left: black solid 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.conejo{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+margin-left: 600px;
+}
+
+.cina{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+margin-left: 750px;
+}
+.ti{
+    text-align: center;
+    color: black;
+    font-family: 'Montserrat', 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding-top: 40px;
+    margin-bottom: 100px;
+}
